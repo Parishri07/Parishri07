@@ -8,7 +8,7 @@
 
 🎓 &nbsp;I'm pursing my Btech Degree in Data Science and Artificial Intelligence at IIIT Dharwad .\
 🌱 &nbsp;I’m currently developing my skills in Web Development, Machine Learning and Data Structures and Algorithms.\
-✍️ &nbsp;I play badminton and basketball.\ 
+✍️ &nbsp;I play badminton and basketball.
 
 ---
 
